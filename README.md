@@ -1,14 +1,9 @@
-# My Camera Filters
+# Demo Camera Filters Starter
 
-## Getting Started
-* Install dependencies
+## ⚡️ Quick Start
 
-```
-yarn install
-```
-
-* Start up app
-
-```
-yarn dev
+```bash
+yarn create next-app -e https://github.com/colbyfayock/demo-camera-filters-starter
+# or
+npx create-next-app -e https://github.com/colbyfayock/demo-camera-filters-starter
 ```
